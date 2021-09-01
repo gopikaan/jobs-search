@@ -1,7 +1,6 @@
 ipywidgets
-textblob
-wordcloud
-nltk
+seaborn
+IPython
 numpy
 pandas
 matplotlib
